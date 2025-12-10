@@ -168,11 +168,6 @@ This project is open source and available under the MIT License.
 
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
 
-## 👨‍💻 Author
-
-**theinnocentboy**
-- GitHub: [@theinnocentboy](https://github.com/theinnocentboy)
-
 ## 🙏 Acknowledgments
 
 - Built with [Streamlit](https://streamlit.io/)
@@ -181,3 +176,4 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 ---
 
 **Made with ❤️ for the GitHub community**
+
